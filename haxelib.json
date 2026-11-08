@@ -1,0 +1,28 @@
+{
+  "name": "extension-chrome",
+  "url": "https://github.com/TheSharkTeam/extension-chrome",
+  "license": "MIT",
+  "tags": [
+    "haxe",
+    "openfl",
+    "lime",
+    "extension",
+    "chrome",
+    "chromium",
+    "browser",
+    "webview",
+    "native",
+    "cross-platform"
+  ],
+  "description": "A Haxe extension for integrating Chrome and Chromium-based browser frames into OpenFL and Lime applications.",
+  "version": "1.0.0",
+  "classPath": "src",
+  "releasenote": "Initial release of extension-chrome.",
+  "contributors": [
+    "TheSharkTeam"
+  ],
+  "dependencies": {
+    "openfl": "9.5.2",
+    "lime": "8.3.2"
+  }
+}
